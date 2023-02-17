@@ -10,5 +10,5 @@ Install the following commands on terminal to download the required libraries
 
 -> pip install bs4
 
-Extract the required data using webscraper . The data is stored in txt files .
+Extract the required data using webscraper . The data is stored in txt files ( profs folder ) . 
 
