@@ -12,3 +12,7 @@ Install the following commands on terminal to download the required libraries
 
 Extract the required data using webscraper . The data is stored in txt files ( profs folder ) . 
 
+SAMPLE OUTPUT OF THE CODE
+
+![Terminal](https://user-images.githubusercontent.com/96968955/219596185-6e656986-1489-4bad-9e28-7651d91378a7.png)
+
