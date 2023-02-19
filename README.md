@@ -12,7 +12,7 @@ Install the following commands on terminal to download the required libraries
 
 Extract the required data using webscraper . The data is stored in txt files ( profs folder ) . 
 
--> ABOVE, THE DATA OF 31 NITs PROFESSORS FROM EACH DEPARTMENT IS UPLOADED. 
+-> ABOVE, THE DATA OF 31 NITs PROFESSORS FROM EACH DEPARTMENT WAS EXTRACTED USING WEBSCRAPER ( NITs )
 
 SAMPLE OUTPUT OF THE CODE
 
